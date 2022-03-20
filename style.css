@@ -85,7 +85,8 @@ figure figcaption {
 /* Estilizando as listas */
 .lista-aprendizados {
   padding-top: 8px;
-  padding-left: 26%;
+  padding-left: 18vw;
+  width: 100%;
 }
 
 /* estilização do container das listas */
@@ -143,7 +144,7 @@ figure figcaption {
 }
 
 .section-table table {
-  padding-left: 15%;
+  padding-left: 19vw;
 }
 
 .section-table table tbody td {
