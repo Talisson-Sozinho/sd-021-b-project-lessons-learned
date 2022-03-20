@@ -1,5 +1,7 @@
 # Primeiro projeto feito no curso da Trybe.
   página web feita do 0 usando apenas html e css.
+  
+  <img src='https://user-images.githubusercontent.com/79944385/159149554-a8a2b51d-dd01-49e5-ad3e-668aee268012.gif'>
 
 ## Habilidades usadas
 
