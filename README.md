@@ -3,6 +3,10 @@
   
   <img src='https://user-images.githubusercontent.com/79944385/159149554-a8a2b51d-dd01-49e5-ad3e-668aee268012.gif'>
 
+# Avaliação feita pela trybe
+
+  <img src='https://user-images.githubusercontent.com/79944385/160265310-3e71475b-8d10-44a2-99df-3d1d127e9f69.png'>
+
 ## Habilidades usadas
 
 * Utilizar _HTML_ para construir páginas WEB.
